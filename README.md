@@ -1,4 +1,4 @@
-# Android-Pyramid-of-Pain
+# LLMs as Security Engineers: Automating Malware Detection from MobSF Reports
 
 ## Android Samples
 - APKs in folder
